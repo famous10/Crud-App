@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "name": "Charity baby",
+      "email": "James@gmail.com",
+      "phone": "08163124897",
+      "address": "PARIS",
+      "id": 4
+    },
+    {
+      "name": "Anita Fool",
+      "email": "ihjwih@kekh.com",
+      "phone": "9987987",
+      "address": "jhwhw",
+      "id": 9
+    },
+    {
+      "name": "Osayame Famous",
+      "email": "famous@gmail.com",
+      "phone": "08141911858",
+      "address": "south Africa",
+      "id": 13
+    },
+    {
+      "name": "steven",
+      "email": "steven@gmail.com",
+      "phone": "09086272525",
+      "address": "Togo",
+      "id": 14
+    },
+    {
+      "name": "Omolade",
+      "email": "omolade@gmail.com",
+      "phone": "09076766743",
+      "address": "Ghana",
+      "id": 16
+    },
+    {
+      "name": "juilet good",
+      "email": "olosho@gmail.com",
+      "phone": "090763268728",
+      "address": "uk",
+      "id": 17
+    }
+  ]
+}
